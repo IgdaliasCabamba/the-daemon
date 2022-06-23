@@ -1,0 +1,14 @@
+[
+    {
+        "bin": "python3",
+        "output":true,
+        "description": "",
+        "args": ["/home/igdalias/Ideas/SuperDaemon/src/test.py"]
+    },
+    {
+        "bin": "python3",
+        "output":true,
+        "description": "",
+        "args": ["-c", "while True:pass"]
+    }
+]
